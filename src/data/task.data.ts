@@ -16,7 +16,7 @@ export const Tasks: TaskData[] = [
         image: "/pictures/manAvatar.jpg",
         page: 2,
         title: "Next step",
-        content: "Reach your goal with us",
+        content: "Reach your goal faster",
       }
   ]; 
 
