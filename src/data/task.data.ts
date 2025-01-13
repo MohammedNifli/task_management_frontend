@@ -13,7 +13,7 @@ export const Tasks: TaskData[] = [
       content: "Boost your productivity with ease",
     },
     {
-        image: "/pictures/women..jpg",
+        image: "/pictures/manAvatar.jpg",
         page: 2,
         title: "Next step",
         content: "Reach your goal with us",
