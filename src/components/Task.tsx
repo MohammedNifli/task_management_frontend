@@ -128,14 +128,14 @@ const Tasks: React.FC = () => {
             <div className="flex space-x-2 relative z-30">
               <button
                 onClick={handlePrevious}
-                className="p-2 rounded-full cursor-pointer bg-white/20 hover:bg-white/30 transition-colors"
+                className="p-2 rounded-full shadow-md cursor-pointer bg-white/20 hover:bg-white/30 transition-colors"
                 style={{ zIndex: 30 }}
               >
                 <ChevronLeft className="w-5 h-5 text-white" />
               </button>
               <button
                 onClick={handleNext}
-                className="p-2 rounded-full cursor-pointer bg-white/20 hover:bg-white/30 transition-colors"
+                className="p-2 rounded-full shadow-md cursor-pointer bg-white/20 hover:bg-white/30 transition-colors"
                 style={{ zIndex: 30 }}
               >
                 <ChevronRight className="w-5 h-5 text-white" />
